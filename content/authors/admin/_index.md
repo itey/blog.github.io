@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 元宇宙张同学
+title: Metavese Plus
 
 # Name pronunciation (optional)
-name_pronunciation: Xuan Zhang
+name_pronunciation: IPFS + dWebsite Project
 
 # Full name (for SEO)
 first_name: Xuan
@@ -21,7 +21,7 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: AI365
+  - name: TruePole Technology Development Center
     url: https://www.ai365.work/
 
 # Short bio (displayed in user profile at end of posts)
